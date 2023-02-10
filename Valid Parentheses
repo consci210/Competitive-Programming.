@@ -1,0 +1,16 @@
+class Solution:
+    def isValid(self, s: str) -> bool:
+        openingBraces = "({["
+        correspondingPair = {"]" : "[" , "}" : "{" , ")" : "("}
+        stack = []
+        for sign in s :
+            if sign in openingBraces :
+                stack.append(sign)
+            else :
+                if stack == [] :
+                    return False 
+                if stack.pop() != correspondingPair[sign] :
+                    return False 
+                
+        if stack == [] :
+            return True  
