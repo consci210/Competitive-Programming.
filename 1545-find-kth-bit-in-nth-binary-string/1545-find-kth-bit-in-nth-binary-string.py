@@ -1,6 +1,6 @@
 class Solution:
     def findKthBit(self, n: int, k: int) -> str:
-        i, s, hash_map = 1, '0', {'1': '0', '0': '1'}
-        for i in range(1, n):
-            s = s + '1' + ''.join((hash_map[i] for i in s))[::-1]
-        return s[k-1]
+        if k == 1: return "0"
+        if k == 2**(n-1): return "1"
+        if k < 2**(n-1): return self.findKthBit(n-1, k)
+        return "0" if self.findKthBit(n-1, 2**n-k) == "1" else "1"
