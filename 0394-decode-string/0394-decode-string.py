@@ -5,15 +5,15 @@ class Solution:
         num = ""
         for character in s :
             if character.isnumeric() :
-                num+=character 
+                num += character 
             elif character == "]" :
                 ans = []
                 while stack[-1] != "[" :   
                     ans.append(stack.pop()) 
                 stack.pop()
                 ans.reverse()
-                for i in range(int(multiplicity.pop())):
-                    stack.extend(ans)
+                decoded = "".join(ans)
+                stack.append(decoded * multiplicity.pop())
             else :
                 if character == "[" :
                     multiplicity.append(int(num))
