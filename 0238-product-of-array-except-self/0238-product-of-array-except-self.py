@@ -12,7 +12,7 @@ class Solution:
             product= product * num 
             right_product.append(product)
         right_product.reverse()
-        print(left_product , right_product)
+        
         for i in range(len(left_product)):
             if i == 0:
                 answer.append(right_product[1])
