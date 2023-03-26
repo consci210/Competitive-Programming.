@@ -3,13 +3,14 @@ class Solution:
         trapped_water = 0 
         longest_to_left = [0]
         longest_to_right = [0]
-        for i in range(len(height)) :
+        length = len(height)
+        for i in range(length) :
             longest_to_left.append(max(height[i] , longest_to_left[-1]))        
-        for i in range(len(height)-1 , -1,-1) :
+        for i in range(length-1 , -1,-1) :
             longest_to_right.append(max(height[i] , longest_to_right[-1]))
-        longest_to_right.reverse()   
-        for block in range(len(height)) :
-            shortest = min(longest_to_left[block] , longest_to_right[block])   
+         
+        for block in range(length) :
+            shortest = min(longest_to_left[block] , longest_to_right[length-block])   
             if shortest > height[block]:
                 trapped_water += shortest -height[block]
        
