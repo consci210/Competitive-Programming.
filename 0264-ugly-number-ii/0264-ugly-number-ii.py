@@ -1,21 +1,18 @@
 class Solution:
     def nthUglyNumber(self, n: int) -> int:
-        ugly = [1]
-        count = 0 
-        seen = {} 
-        store = []
-        while True :
-            nxt = [ugly[count]*2 , ugly[count]*3 , ugly[count]*5]
-            for num in nxt :
-                if num not in seen :
-                    heapq.heappush(store,num)
-            count+=1  
-            found = False 
-            while not found :
-                small = heapq.heappop(store)
-                if small not in seen :
-                    heapq.heappush(ugly , small)
-                    found = True 
-                seen[small] = 1
-            if count == n*3 :  
-                return ugly[n-1]
+            
+            index2 = index3 = index5 = 0 
+            ugly_numbers = [1]
+            while len(ugly_numbers) < n :
+                smallest_ugly_number = min( ugly_numbers[index2]*2 , ugly_numbers[index3]*3 , ugly_numbers[index5]*5  )   
+                ugly_numbers.append(smallest_ugly_number)
+                
+                if ugly_numbers[-1] == ugly_numbers[index2]*2 :
+                    index2+=1
+                if ugly_numbers[-1] == ugly_numbers[index3]*3 :
+                    index3+=1
+                if ugly_numbers[-1] == ugly_numbers[index5]*5 :
+                    index5+=1
+            
+            return ugly_numbers[-1]
+                
