@@ -1,13 +1,11 @@
 class Solution:
-    def subsets(self, nums: List[int]) -> List[List[int]]:
-        answer = [[]]
-        N = len(nums)
-        def backtrack( idx , arr ) :
-            
-            for i in range(idx , N):
-                arr.append(nums[i])
-                backtrack(i+1 ,arr)
-                answer.append(arr.copy())
-                arr.pop()
-        backtrack(0 , [])    
-        return answer 
+    def subsets(self, nums: List[int]) -> List[List[int]]: 
+        answer = []
+        def backtrack(idx=0 , curr=[]):    
+            answer.append(curr.copy())
+            for i in range(idx , len(nums)):
+                curr.append(nums[i])
+                backtrack(i+1 , curr)
+                curr.pop()            
+        backtrack()
+        return answer
