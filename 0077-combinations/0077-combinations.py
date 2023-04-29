@@ -1,21 +1,18 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         answer = []
-        array = [i for i in range(1,n+1)]
-        def backtrack(i , arr) :
-            if len(arr) == k :   
-                answer.append(arr.copy())
+        
+        def backtrack(idx=1 , curr=[]):
+            
+            if len(curr) == k  :
+                answer.append(curr.copy())
                 return 
-            if i >= len(array):
+            if idx > n :
                 return 
             
-            choice = array[i]
-            #take
-            arr.append(choice)
-            backtrack(i+1,arr)
-            #not take 
-            arr.pop()
-            backtrack(i+1 ,arr)
-        
-        backtrack(0,[])
+            curr.append(idx)
+            backtrack(idx+1 ,curr)
+            curr.pop()
+            backtrack(idx +1, curr)
+        backtrack()
         return answer 
