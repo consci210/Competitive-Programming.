@@ -1,21 +1,19 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         answer = []
-        
-        def backtrack(i , target , arr):
-            if target == 0 :
-                answer.append(list(arr))
-                return 
-            if i >= len(candidates) or  target < 0 :
+        def backtrack(i=0 , curr=[] , total=0 ):
+            if total == target :
+                answer.append(curr.copy()) 
+            if total >= target or i >= len(candidates) :
                 return 
             
-            choice = candidates[i]
-            arr.append(choice)
-            backtrack(i , target-choice , arr )
-            arr.pop()
-            backtrack(i+1 , target , arr)
+            #pick
+            num = candidates[i]
+            curr.append(num)
+            backtrack(i , curr ,total+num )
+            #not pick 
+            curr.pop()
+            backtrack(i+1 , curr ,total )
             
-            return answer 
-
-        backtrack(0 , target , [])
-        return answer
+        backtrack()
+        return answer 
