@@ -7,12 +7,12 @@ class Solution:
             if len(curr) == k  :
                 answer.append(curr.copy())
                 return 
-            if idx > n :
-                return 
             
-            curr.append(idx)
-            backtrack(idx+1 ,curr)
-            curr.pop()
-            backtrack(idx +1, curr)
+            for i in range(idx , n+1):
+                curr.append(i)
+                backtrack(i+1 , curr)
+                curr.pop()
+                
+      
         backtrack()
         return answer 
