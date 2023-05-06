@@ -13,7 +13,7 @@ class Solution:
 
         def dfs(root, curr): 
             if not root or (not root.left and not root.right):
-                path.append("->".join(curr[:]))
+                path.append("->".join(curr))
                 return 
             if root.left:
                 curr.append (str((root.left.val)))
