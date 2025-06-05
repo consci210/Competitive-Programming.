@@ -8,6 +8,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 | ------- |
 | [0001-two-sum](https://github.com/consci210/Competitive-Programming./tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/consci210/Competitive-Programming./tree/master/0004-median-of-two-sorted-arrays) |
+| [0792-binary-search](https://github.com/consci210/Competitive-Programming./tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/consci210/Competitive-Programming./tree/master/0004-median-of-two-sorted-arrays) |
+| [0792-binary-search](https://github.com/consci210/Competitive-Programming./tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
