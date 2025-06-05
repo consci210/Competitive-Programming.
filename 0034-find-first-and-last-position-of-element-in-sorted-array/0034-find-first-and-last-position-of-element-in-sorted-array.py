@@ -1,38 +1,27 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        
-        def find_first(arr , val ) :
-            res = -1
-            l = 0 
-            r = len(arr)-1
-            
-            while l <= r :
-                mid = (l+r)//2
-                if arr[mid] == val :
-                    res = mid 
-                    r = mid -1 
-                elif arr[mid] < val :
-                    l = mid + 1
-                else :
-                    r = mid - 1
-            
-            return res 
-        
-        def find_last(arr , val ) :
-            res = -1
-            l = 0 
-            r = len(arr)-1
-            
-            while l <= r :
-                mid = (l+r)//2
-                if arr[mid] == val :
-                    res = mid 
-                    l = mid + 1 
-                elif arr[mid] < val :
-                    l = mid + 1
-                else :
-                    r = mid - 1
-            
-            return res 
-        
-        return([find_first(nums,target) ,find_last(nums , target) ])
+        low = 0
+        high = len(nums)-1
+        first = -1
+        last = -1 
+        while low <= high:
+            mid = (low+high)//2
+            if nums[mid] == target:
+                first = mid 
+                high = mid-1 
+            elif nums[mid] < target:
+                low = mid +1
+            else:
+                high = mid - 1
+        high = len(nums)-1
+        low = 0 
+        while low <= high:
+            mid = (low+high)//2
+            if nums[mid] == target:
+                last = mid 
+                low = mid+1 
+            elif nums[mid] < target:
+                low = mid +1
+            else:
+                high = mid - 1
+        return([first,last])
