@@ -19,9 +19,14 @@ This repository serves as a centralized location for my LeetCode solutions.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/consci210/Competitive-Programming./tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/consci210/Competitive-Programming./tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/consci210/Competitive-Programming./tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/consci210/Competitive-Programming./tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/consci210/Competitive-Programming./tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/consci210/Competitive-Programming./tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
