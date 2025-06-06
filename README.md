@@ -17,6 +17,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 | ------- |
 | [0001-two-sum](https://github.com/consci210/Competitive-Programming./tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/consci210/Competitive-Programming./tree/master/0049-group-anagrams) |
+| [0782-jewels-and-stones](https://github.com/consci210/Competitive-Programming./tree/master/0782-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/consci210/Competitive-Programming./tree/master/0049-group-anagrams) |
+| [0782-jewels-and-stones](https://github.com/consci210/Competitive-Programming./tree/master/0782-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
