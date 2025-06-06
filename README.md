@@ -16,6 +16,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/consci210/Competitive-Programming./tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/consci210/Competitive-Programming./tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/consci210/Competitive-Programming./tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/consci210/Competitive-Programming./tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/consci210/Competitive-Programming./tree/master/0782-jewels-and-stones) |
@@ -34,10 +35,12 @@ This repository serves as a centralized location for my LeetCode solutions.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/consci210/Competitive-Programming./tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/consci210/Competitive-Programming./tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/consci210/Competitive-Programming./tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/consci210/Competitive-Programming./tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/consci210/Competitive-Programming./tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/consci210/Competitive-Programming./tree/master/0782-jewels-and-stones) |
