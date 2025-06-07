@@ -16,6 +16,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/consci210/Competitive-Programming./tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/consci210/Competitive-Programming./tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/consci210/Competitive-Programming./tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/consci210/Competitive-Programming./tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/consci210/Competitive-Programming./tree/master/0383-ransom-note) |
@@ -35,11 +36,13 @@ This repository serves as a centralized location for my LeetCode solutions.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/consci210/Competitive-Programming./tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/consci210/Competitive-Programming./tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/consci210/Competitive-Programming./tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/consci210/Competitive-Programming./tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/consci210/Competitive-Programming./tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/consci210/Competitive-Programming./tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/consci210/Competitive-Programming./tree/master/0383-ransom-note) |
