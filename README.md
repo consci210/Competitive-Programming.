@@ -47,6 +47,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 | [0049-group-anagrams](https://github.com/consci210/Competitive-Programming./tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/consci210/Competitive-Programming./tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/consci210/Competitive-Programming./tree/master/0782-jewels-and-stones) |
+| [1894-merge-strings-alternately](https://github.com/consci210/Competitive-Programming./tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +56,8 @@ This repository serves as a centralized location for my LeetCode solutions.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/consci210/Competitive-Programming./tree/master/0383-ransom-note) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/consci210/Competitive-Programming./tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
