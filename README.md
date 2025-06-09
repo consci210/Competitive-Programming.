@@ -60,4 +60,12 @@ This repository serves as a centralized location for my LeetCode solutions.
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/consci210/Competitive-Programming./tree/master/1894-merge-strings-alternately) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/consci210/Competitive-Programming./tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/consci210/Competitive-Programming./tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
