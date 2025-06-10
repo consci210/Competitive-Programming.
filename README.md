@@ -79,12 +79,22 @@ This repository serves as a centralized location for my LeetCode solutions.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/consci210/Competitive-Programming./tree/master/0104-maximum-depth-of-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/consci210/Competitive-Programming./tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/consci210/Competitive-Programming./tree/master/0104-maximum-depth-of-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/consci210/Competitive-Programming./tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/consci210/Competitive-Programming./tree/master/0104-maximum-depth-of-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/consci210/Competitive-Programming./tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/consci210/Competitive-Programming./tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
