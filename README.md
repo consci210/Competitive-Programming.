@@ -12,6 +12,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 | [0035-search-insert-position](https://github.com/consci210/Competitive-Programming./tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/consci210/Competitive-Programming./tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/consci210/Competitive-Programming./tree/master/0200-number-of-islands) |
+| [0724-find-pivot-index](https://github.com/consci210/Competitive-Programming./tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/consci210/Competitive-Programming./tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/consci210/Competitive-Programming./tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
@@ -113,5 +114,6 @@ This repository serves as a centralized location for my LeetCode solutions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/consci210/Competitive-Programming./tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/consci210/Competitive-Programming./tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
