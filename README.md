@@ -11,6 +11,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/consci210/Competitive-Programming./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/consci210/Competitive-Programming./tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/consci210/Competitive-Programming./tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/consci210/Competitive-Programming./tree/master/0200-number-of-islands) |
 | [0792-binary-search](https://github.com/consci210/Competitive-Programming./tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -79,12 +80,14 @@ This repository serves as a centralized location for my LeetCode solutions.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/consci210/Competitive-Programming./tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/consci210/Competitive-Programming./tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/consci210/Competitive-Programming./tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/consci210/Competitive-Programming./tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/consci210/Competitive-Programming./tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/consci210/Competitive-Programming./tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/consci210/Competitive-Programming./tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/consci210/Competitive-Programming./tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -94,6 +97,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/consci210/Competitive-Programming./tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/consci210/Competitive-Programming./tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/consci210/Competitive-Programming./tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
@@ -101,4 +105,8 @@ This repository serves as a centralized location for my LeetCode solutions.
 | ------- |
 | [0547-number-of-provinces](https://github.com/consci210/Competitive-Programming./tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/consci210/Competitive-Programming./tree/master/2121-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/consci210/Competitive-Programming./tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
