@@ -31,6 +31,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 | [0383-ransom-note](https://github.com/consci210/Competitive-Programming./tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/consci210/Competitive-Programming./tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/consci210/Competitive-Programming./tree/master/0782-jewels-and-stones) |
+| [1160-letter-tile-possibilities](https://github.com/consci210/Competitive-Programming./tree/master/1160-letter-tile-possibilities) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/consci210/Competitive-Programming./tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
@@ -61,6 +62,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 | [0049-group-anagrams](https://github.com/consci210/Competitive-Programming./tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/consci210/Competitive-Programming./tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/consci210/Competitive-Programming./tree/master/0782-jewels-and-stones) |
+| [1160-letter-tile-possibilities](https://github.com/consci210/Competitive-Programming./tree/master/1160-letter-tile-possibilities) |
 | [1894-merge-strings-alternately](https://github.com/consci210/Competitive-Programming./tree/master/1894-merge-strings-alternately) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/consci210/Competitive-Programming./tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
@@ -71,6 +73,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/consci210/Competitive-Programming./tree/master/0383-ransom-note) |
+| [1160-letter-tile-possibilities](https://github.com/consci210/Competitive-Programming./tree/master/1160-letter-tile-possibilities) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/consci210/Competitive-Programming./tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -145,4 +148,8 @@ This repository serves as a centralized location for my LeetCode solutions.
 | ------- |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/consci210/Competitive-Programming./tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/consci210/Competitive-Programming./tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/consci210/Competitive-Programming./tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
