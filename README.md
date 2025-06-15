@@ -52,6 +52,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 | [0012-integer-to-roman](https://github.com/consci210/Competitive-Programming./tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/consci210/Competitive-Programming./tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/consci210/Competitive-Programming./tree/master/0069-sqrtx) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/consci210/Competitive-Programming./tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/consci210/Competitive-Programming./tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## String
 |  |
@@ -146,6 +147,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 ## Greedy
 |  |
 | ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/consci210/Competitive-Programming./tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/consci210/Competitive-Programming./tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/consci210/Competitive-Programming./tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Backtracking
