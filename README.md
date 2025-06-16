@@ -18,6 +18,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 | [0733-flood-fill](https://github.com/consci210/Competitive-Programming./tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/consci210/Competitive-Programming./tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/consci210/Competitive-Programming./tree/master/1603-running-sum-of-1d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/consci210/Competitive-Programming./tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/consci210/Competitive-Programming./tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/consci210/Competitive-Programming./tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
