@@ -19,6 +19,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 | [0792-binary-search](https://github.com/consci210/Competitive-Programming./tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/consci210/Competitive-Programming./tree/master/1603-running-sum-of-1d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/consci210/Competitive-Programming./tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/consci210/Competitive-Programming./tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/consci210/Competitive-Programming./tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/consci210/Competitive-Programming./tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -71,6 +72,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/consci210/Competitive-Programming./tree/master/0049-group-anagrams) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/consci210/Competitive-Programming./tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Counting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ This repository serves as a centralized location for my LeetCode solutions.
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/consci210/Competitive-Programming./tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/consci210/Competitive-Programming./tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/consci210/Competitive-Programming./tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/consci210/Competitive-Programming./tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Backtracking
